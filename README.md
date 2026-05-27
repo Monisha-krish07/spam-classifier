@@ -121,4 +121,5 @@ numpy
 
 ## 👤 Author
 
-[Your Name] | Machine Learning Internship Assessment
+Monisha | Machine Learning 
+
